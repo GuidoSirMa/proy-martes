@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/proy-martes/static/css/main.daedd972.css",
+    "main.js": "/proy-martes/static/js/main.5a45f277.js",
+    "static/js/787.3c8b64d5.chunk.js": "/proy-martes/static/js/787.3c8b64d5.chunk.js",
+    "static/media/imagen2.jpg": "/proy-martes/static/media/imagen2.223ba9abbb090c21552e.jpg",
+    "static/media/imagen4.jpg": "/proy-martes/static/media/imagen4.6d895d4baeba584827f4.jpg",
+    "static/media/imagen3.jpg": "/proy-martes/static/media/imagen3.f91061443550c7251f9a.jpg",
+    "static/media/icon3.jpg": "/proy-martes/static/media/icon3.2a6c5f9a92d453d8b1b7.jpg",
+    "static/media/icon2.jpg": "/proy-martes/static/media/icon2.0b7c86fba1fbc433f761.jpg",
+    "static/media/icon1.jpg": "/proy-martes/static/media/icon1.8d51a55626e9bf107f8f.jpg",
+    "static/media/logo.svg": "/proy-martes/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/proy-martes/index.html",
+    "main.daedd972.css.map": "/proy-martes/static/css/main.daedd972.css.map",
+    "main.5a45f277.js.map": "/proy-martes/static/js/main.5a45f277.js.map",
+    "787.3c8b64d5.chunk.js.map": "/proy-martes/static/js/787.3c8b64d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daedd972.css",
+    "static/js/main.5a45f277.js"
+  ]
+}
